@@ -38,7 +38,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href=""
+                href="/projects/Milan_Gauswami.pdf"
                 className="px-6 py-3 text-sm sm:text-base rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 text-center"
               >
                 Download CV
