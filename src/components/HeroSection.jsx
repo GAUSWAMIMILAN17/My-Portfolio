@@ -22,7 +22,7 @@ export const HeroSection = () => {
             
             {/* Role Badge */}
             <p className="text-sm sm:text-base md:text-lg font-medium text-primary/80 opacity-0 animate-fade-in-delay-2">
-              MERN Stack Developer
+              Fullstack Developer | Software Engineer
             </p>
           </div>
 

@@ -147,12 +147,12 @@ export const ContactSection = () => {
                 <a href="https://github.com/GAUSWAMIMILAN17" target="_blank">
                   <Github />
                 </a>
-                <a href="#" target="_blank">
+                {/* <a href="#" target="_blank">
                   <Twitter />
                 </a>
                 <a href="#" target="_blank">
                   <Instagram />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
