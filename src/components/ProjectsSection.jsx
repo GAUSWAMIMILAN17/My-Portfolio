@@ -49,7 +49,7 @@ export const ProjectsSection = () => {
         {/* Projects Container - Horizontal Scroll on Mobile */}
         <div className="relative">
           {/* Mobile Horizontal Scroll */}
-          <div className="flex md:hidden overflow-x-auto gap-4 px-4 pb-4 snap-x snap-mandatory scrollbar-hide">
+          <div className="flex md:hidden overflow-x-auto mx-5 gap-4 px-4 pb-4 snap-x snap-mandatory scrollbar-hide">
             {projects.map((project, key) => (
               <div
                 key={key}
